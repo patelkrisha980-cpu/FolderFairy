@@ -1,0 +1,11 @@
+
+# Windows files
+Thumbs.db
+desktop.ini
+
+# PowerShell logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
